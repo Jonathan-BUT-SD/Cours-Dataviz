@@ -2,7 +2,7 @@
 
 ![What is this](6exemplesEMIMathematiques.jpg)
 
-Graphique CNews sur la réanimation en Île-de-France : l'axe vertical n'est pas respecté. La valeur 1 746 est placée plus bas que 1 136 et au niveau de 1 465, alors qu'elle est plus élevée. La courbe donne donc l'impression d'une situation qui s'aggrave fortement, ce que les chiffres ne montrent pas.
+Graphique CNews sur la réanimation en Île-de-France : l'axe vertical n'est pas respecté. La valeur 1 746 est placée plus bas que 1 136 qui est au même niveau que 1 465, alors qu'elle est plus élevée. La courbe donne donc l'impression d'une situation qui s'aggrave fortement, ce que les chiffres ne montrent pas.
 
 
 ![What is this](graphique2.png)
