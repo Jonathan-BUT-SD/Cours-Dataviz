@@ -3,7 +3,7 @@
 **Jonathan FONTANA · Salma KOULIJ-CHAABAN**
 BUT Science des Données - 3e année, formation en alternance (SD 3A FA)
 
-![Le vélo à Paris en 2025](Velo_Paris_2025.png)
+![Le vélo à Paris en 2025](b642aaef-53d3-4388-b981-9db9f3d85290.png)
 
 ## Ce que racontent les données
 
