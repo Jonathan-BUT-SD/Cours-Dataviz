@@ -1,10 +1,10 @@
 # Accidents corporels de la circulation – Gironde, 2024
 
-Données : ONISR, base BAAC 2024 ([data.gouv.fr](https://www.data.gouv.fr/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2025)). Code : `scripts/analyse_accidents.py`. Carte interactive : `carte_interactive.html`.
+Données : ONISR, base BAAC 2024 ([data.gouv.fr](https://www.data.gouv.fr/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2025)). 
 
-![Carte des accidents en Gironde](figures/fig1_carte_gironde.png)
+![Carte des accidents en Gironde](images/fig1_carte_gironde.png)
 
-![Accidents selon la luminosité](figures/fig2_luminosite.png)
+![Accidents selon la luminosité](images/fig2_luminosite.png)
 
 ## Interprétation
 
