@@ -1,7 +1,7 @@
 **Jonathan FONTANA** - BUT Science des Données VCOD 3A FA
 Projet individuel de data visualisation - thématique « Les jeux vidéo » - outil : **Streamlit & Python**
 
-![Capture d'écran du dashboard](dataviz_projet.png)
+![Capture d'écran du dashboard](images/dataviz_projet.png)
 
 Chaque jour, des dizaines de jeux sortent sur Steam, la plus grande boutique de jeux PC. Ce dashboard
 montre **quand**, **combien** et **à quel prix** : il suit les sorties jour par jour sur une 2023, repère
